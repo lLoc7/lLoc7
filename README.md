@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Luca Carvalho 😁
  <div>
   <a href="https://github.com/lLoc7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLoc7&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
