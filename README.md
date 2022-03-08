@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Luca Carvalho 😁
  <div>
   <a href="https://github.com/lLoc7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLoc7&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLoc7&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLoc7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLoc7&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
